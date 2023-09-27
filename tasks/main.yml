@@ -35,3 +35,7 @@
   debug:
     var: static_content.content
 
+- name: Print final status - DUMMY
+  debug:
+    msg: "Playbook Ended"
+
